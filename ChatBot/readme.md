@@ -8,4 +8,12 @@ To complete the configuration of this bot, make sure to update the included `.en
 
 This bot is powered by [a folder full of modules](https://botkit.ai/docs/v4/core.html#organize-your-bot-code). 
 Edit the samples, and add your own in the [features/](features/) folder.
-# TestBot
+
+
+# Build
+
+> npm install
+
+# Run
+
+> npm start
